@@ -21,7 +21,7 @@ public interface IProductRepository
 
     Task<bool> DeleteProductAsync(string productId);
 
-    Task<ProductBrand> GetBrandByBrandIdAsync(string brandId);
+    Task<ProductBrand> GetBrandByIdAsync(string brandId);
 
-    Task<ProductBrand> GetTypeByTypeIdAsync(string typeId);
+    Task<ProductType> GetTypeByIdAsync(string typeId);
 }
