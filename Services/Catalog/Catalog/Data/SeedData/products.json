@@ -1,0 +1,242 @@
+[
+  {
+    "Id": "a9f3c1e7b4d2c810e5a9b3f1",
+    "Name": "Adidas Runner Pro",
+    "Description": "Lightweight running shoes designed for daily training.",
+    "Price": 3500,
+    "ImageFile": "images/products/adidas_shoe-1.png",
+    "Summary": "Comfortable and durable running shoes.",
+    "Type": {
+      "Id": "e4b9c1f7a3d2e810c5f7a9b3",
+      "Name": "Shoes"
+    },
+    "Brand": {
+      "Id": "f3c8b8a1-9e4d-4c2e-9c1a-12d9b7f4a8e3",
+      "Name": "Adidas"
+    }
+  },
+  {
+    "Id": "c1e7a3f9b4d2c810e5f7a9b2",
+    "Name": "Nike Air Zoom",
+    "Description": "High-performance running shoes with responsive cushioning.",
+    "Price": 4200,
+    "ImageFile": "images/products/nike_shoe-1.png",
+    "Summary": "Fast, responsive, and lightweight.",
+    "Type": {
+      "Id": "e4b9c1f7a3d2e810c5f7a9b3",
+      "Name": "Shoes"
+    },
+    "Brand": {
+      "Id": "d8b1e4f7-3c22-4a9f-9b11-7e4c2f8a6d33",
+      "Name": "Nike"
+    }
+  },
+  {
+    "Id": "d7c1e3a9b4f2c810e5a9b3f8",
+    "Name": "Puma Flex Motion",
+    "Description": "Flexible and breathable shoes ideal for workouts.",
+    "Price": 3100,
+    "ImageFile": "images/products/puma_shoe-1.png",
+    "Summary": "Breathable and flexible training shoes.",
+    "Type": {
+      "Id": "e4b9c1f7a3d2e810c5f7a9b3",
+      "Name": "Shoes"
+    },
+    "Brand": {
+      "Id": "a6f3d9c2-1b44-4e9f-8c77-2d5f9a1e3c88",
+      "Name": "Puma"
+    }
+  },
+  {
+    "Id": "e3b7c1f9a4d2c810e5f7a9b1",
+    "Name": "ASICS Gel Rocket",
+    "Description": "Indoor court shoes with gel cushioning.",
+    "Price": 3900,
+    "ImageFile": "images/products/asics_shoe-1.png",
+    "Summary": "Stable and cushioned indoor shoes.",
+    "Type": {
+      "Id": "e4b9c1f7a3d2e810c5f7a9b3",
+      "Name": "Shoes"
+    },
+    "Brand": {
+      "Id": "7b1e4c92-3f55-4d2c-8b0f-91c2a4e6d7f1",
+      "Name": "ASICS"
+    }
+  },
+  {
+    "Id": "f9c1a3e7b4d2c810e5b7a9f3",
+    "Name": "Yonex Power Cushion",
+    "Description": "Badminton shoes with shock absorption technology.",
+    "Price": 3600,
+    "ImageFile": "images/products/yonex_shoe-1.png",
+    "Summary": "Shock-absorbing badminton shoes.",
+    "Type": {
+      "Id": "e4b9c1f7a3d2e810c5f7a9b3",
+      "Name": "Shoes"
+    },
+    "Brand": {
+      "Id": "e14d7b23-8c4f-4b1a-9e22-5f7c3a9d1b44",
+      "Name": "Yonex"
+    }
+  },
+  {
+    "Id": "b3e7c1a9f4d2c810e5a9b7f2",
+    "Name": "Yonex Astrox 88D",
+    "Description": "Powerful badminton racket for aggressive players.",
+    "Price": 5200,
+    "ImageFile": "images/products/yonex_racket-1.png",
+    "Summary": "High-power badminton racket.",
+    "Type": {
+      "Id": "b7c1e3f9a4d2c810e5a9f2d6",
+      "Name": "Rackets"
+    },
+    "Brand": {
+      "Id": "e14d7b23-8c4f-4b1a-9e22-5f7c3a9d1b44",
+      "Name": "Yonex"
+    }
+  },
+  {
+    "Id": "c7a3e1f9b4d2c810e5f7b9a2",
+    "Name": "Victor Thruster K",
+    "Description": "Balanced racket with excellent control.",
+    "Price": 4800,
+    "ImageFile": "images/products/victor_racket-1.png",
+    "Summary": "Control-focused badminton racket.",
+    "Type": {
+      "Id": "b7c1e3f9a4d2c810e5a9f2d6",
+      "Name": "Rackets"
+    },
+    "Brand": {
+      "Id": "c92f1a77-4b3e-4c8a-9f11-0c4d8e2b6f55",
+      "Name": "Victor"
+    }
+  },
+  {
+    "Id": "d1f7c3a9b4d2c810e5a9b2f6",
+    "Name": "Babolat Pure Drive",
+    "Description": "High-performance tennis racket with great power.",
+    "Price": 6500,
+    "ImageFile": "images/products/babolat_racket-1.png",
+    "Summary": "Powerful tennis racket.",
+    "Type": {
+      "Id": "b7c1e3f9a4d2c810e5a9f2d6",
+      "Name": "Rackets"
+    },
+    "Brand": {
+      "Id": "b7e3c4a9-5d11-4f8c-8e77-1c9a2d4f6b22",
+      "Name": "Babolat"
+    }
+  },
+  {
+    "Id": "e7c1a3f9b4d2c810e5b9f2a1",
+    "Name": "Adidas Predator Football",
+    "Description": "Durable football with excellent grip.",
+    "Price": 2100,
+    "ImageFile": "images/products/adidas_football-1.png",
+    "Summary": "High-grip football.",
+    "Type": {
+      "Id": "c9e1a3b7f4d2e810b5f7c2a8",
+      "Name": "Football"
+    },
+    "Brand": {
+      "Id": "f3c8b8a1-9e4d-4c2e-9c1a-12d9b7f4a8e3",
+      "Name": "Adidas"
+    }
+  },
+  {
+    "Id": "f3a9c1e7b4d2c810e5b7a9f4",
+    "Name": "Nike Strike Football",
+    "Description": "Premium football with textured casing.",
+    "Price": 2500,
+    "ImageFile": "images/products/nike_football-1.png",
+    "Summary": "Textured football for better control.",
+    "Type": {
+      "Id": "c9e1a3b7f4d2e810b5f7c2a8",
+      "Name": "Football"
+    },
+    "Brand": {
+      "Id": "d8b1e4f7-3c22-4a9f-9b11-7e4c2f8a6d33",
+      "Name": "Nike"
+    }
+  },
+  {
+    "Id": "b9c1e3a7f4d2c810e5a9b2f1",
+    "Name": "Puma Team Bag",
+    "Description": "Spacious kit bag for training and travel.",
+    "Price": 1800,
+    "ImageFile": "images/products/puma_bag-1.png",
+    "Summary": "Durable and spacious kit bag.",
+    "Type": {
+      "Id": "f1a7c3e9b4d2c810e5b9a3f6",
+      "Name": "Kit Bags"
+    },
+    "Brand": {
+      "Id": "a6f3d9c2-1b44-4e9f-8c77-2d5f9a1e3c88",
+      "Name": "Puma"
+    }
+  },
+  {
+    "Id": "c3e7a1f9b4d2c810e5b9f2a4",
+    "Name": "Adidas Travel Kit Bag",
+    "Description": "Lightweight bag with multiple compartments.",
+    "Price": 2200,
+    "ImageFile": "images/products/adidas_bag-1.png",
+    "Summary": "Lightweight multi-pocket kit bag.",
+    "Type": {
+      "Id": "f1a7c3e9b4d2c810e5b9a3f6",
+      "Name": "Kit Bags"
+    },
+    "Brand": {
+      "Id": "f3c8b8a1-9e4d-4c2e-9c1a-12d9b7f4a8e3",
+      "Name": "Adidas"
+    }
+  },
+  {
+    "Id": "d9a3c1e7b4d2c810e5f7b2a8",
+    "Name": "ASICS Court Bag",
+    "Description": "Compact bag designed for racket sports.",
+    "Price": 1900,
+    "ImageFile": "images/products/asics_bag-1.png",
+    "Summary": "Compact and durable court bag.",
+    "Type": {
+      "Id": "f1a7c3e9b4d2c810e5b9a3f6",
+      "Name": "Kit Bags"
+    },
+    "Brand": {
+      "Id": "7b1e4c92-3f55-4d2c-8b0f-91c2a4e6d7f1",
+      "Name": "ASICS"
+    }
+  },
+  {
+    "Id": "e1c7a3f9b4d2c810e5b9f2a3",
+    "Name": "Babolat Backpack",
+    "Description": "Stylish backpack for tennis players.",
+    "Price": 2600,
+    "ImageFile": "images/products/babolat_bag-1.png",
+    "Summary": "Stylish and functional tennis backpack.",
+    "Type": {
+      "Id": "f1a7c3e9b4d2c810e5b9a3f6",
+      "Name": "Kit Bags"
+    },
+    "Brand": {
+      "Id": "b7e3c4a9-5d11-4f8c-8e77-1c9a2d4f6b22",
+      "Name": "Babolat"
+    }
+  },
+  {
+    "Id": "f7b1c3e9a4d2c810e5a9f2b6",
+    "Name": "Nike Court Bag",
+    "Description": "Premium bag with reinforced straps.",
+    "Price": 2400,
+    "ImageFile": "images/products/nike_bag-1.png",
+    "Summary": "Premium and durable court bag.",
+    "Type": {
+      "Id": "f1a7c3e9b4d2c810e5b9a3f6",
+      "Name": "Kit Bags"
+    },
+    "Brand": {
+      "Id": "d8b1e4f7-3c22-4a9f-9b11-7e4c2f8a6d33",
+      "Name": "Nike"
+    }
+  }
+]
