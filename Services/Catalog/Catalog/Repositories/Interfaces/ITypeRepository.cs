@@ -1,6 +1,6 @@
 ﻿using Catalog.Entities;
 
-namespace Catalog.Repositories;
+namespace Catalog.Repositories.Interfaces;
 
 public interface ITypeRepository
 {
