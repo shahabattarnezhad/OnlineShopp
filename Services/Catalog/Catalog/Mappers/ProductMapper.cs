@@ -24,6 +24,11 @@ public static class ProductMapper
         };
     }
 
+    public static IEnumerable<ProductResponse> ToResponseList(this IEnumerable<Product> products)
+    {
+        return products.Select(p => p.ToResponse());
+    }
+
     public static Pagination<ProductResponse> ToResponse(this Pagination<Product> pagination)
     {
         return new Pagination<ProductResponse>
