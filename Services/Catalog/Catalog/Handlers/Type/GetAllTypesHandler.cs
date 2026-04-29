@@ -1,4 +1,4 @@
-﻿using Catalog.Extensions;
+﻿using Catalog.Mappers;
 using Catalog.Queries.Type;
 using Catalog.Repositories.Interfaces;
 using Catalog.Responses.Type;

@@ -2,7 +2,7 @@
 using Catalog.Responses.Brand;
 using Catalog.Responses.Type;
 
-namespace Catalog.Extensions;
+namespace Catalog.Mappers;
 
 public static class TypeMapper
 {
